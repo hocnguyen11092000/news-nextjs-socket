@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\news-nextjs-admin"
+	},
+	{
+		"path": "..\\.."
+	},
+	{
+		"path": "..\\..\\..\\news-nextjs-mysql-client"
+	}
+],
+  "settings": {}
+}
